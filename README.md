@@ -20,7 +20,7 @@
     - [`GET /movies/search`](#get-moviessearch)
     - [POST /movies/:id](#post-moviesid)
   - [GraphQL endpoints to implement](#graphql-endpoints-to-implement)
-    - [(A suggested) Schema](#a-suggested-schema)
+    - [(A suggested) Schema](#a-/Users/olivierdupain/Documents/GitHub/denzel/README.mdsuggested-schema)
   - [Bonus - The Client side](#bonus---the-client-side)
 - [🛣️ Related course](#-related-course)
 - [Licence](#licence)
