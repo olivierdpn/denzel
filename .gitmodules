@@ -1,3 +1,6 @@
 [submodule "denzel"]
 	path = denzel
 	url = /Users/olivierdupain/Documents/GitHub/denzel
+[submodule "FRONT-Denzel"]
+	path = FRONT-Denzel
+	url = /Users/olivierdupain/Documents/GitHub/denzel/FRONT-Denzel
