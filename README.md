@@ -7,6 +7,12 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
+##  📤 Online 
+
+The client website (REACT) has been deployed with Netlify : [client side](https://denzel-movie-client.netlify.com)
+Server side is also online : [server side](https://denzel-movie-back.netlify.com)
+
 ## 📚 Report 
 
 **REST API** are available in Back-Denzel\connectionMango.js.

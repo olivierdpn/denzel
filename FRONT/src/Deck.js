@@ -46,7 +46,7 @@ import { Card, CardImg, CardText, CardBody,
     return (
       <div>
 
-        <CardDeck>
+        <CardDeck className = "text-center">
       <Card>
         <CardImg top width="100%" src={item[ref1].poster} alt="Card image cap" />
         <CardBody>
